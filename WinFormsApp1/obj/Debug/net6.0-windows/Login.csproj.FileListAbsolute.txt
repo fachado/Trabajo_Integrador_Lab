@@ -1,0 +1,8 @@
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp1\obj\Debug\net6.0-windows\Login.Properties.Resources.resources
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp1\obj\Debug\net6.0-windows\Login.csproj.GenerateResource.cache
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp1\obj\Debug\net6.0-windows\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp1\obj\Debug\net6.0-windows\Login.AssemblyInfoInputs.cache
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp1\obj\Debug\net6.0-windows\Login.AssemblyInfo.cs
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp1\obj\Debug\net6.0-windows\Login.csproj.CoreCompileInputs.cache
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Logueo.resources
