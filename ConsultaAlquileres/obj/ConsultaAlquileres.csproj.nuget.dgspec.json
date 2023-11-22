@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\ConsultaAlquileres\\ConsultaAlquileres.csproj": {}
+    "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\ConsultaAlquileres\\ConsultaAlquileres.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\ConsultaAlquileres\\ConsultaAlquileres.csproj": {
+    "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\ConsultaAlquileres\\ConsultaAlquileres.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\ConsultaAlquileres\\ConsultaAlquileres.csproj",
+        "projectUniqueName": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\ConsultaAlquileres\\ConsultaAlquileres.csproj",
         "projectName": "ConsultaAlquileres",
-        "projectPath": "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\ConsultaAlquileres\\ConsultaAlquileres.csproj",
+        "projectPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\ConsultaAlquileres\\ConsultaAlquileres.csproj",
         "packagesPath": "C:\\Users\\ignac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\ConsultaAlquileres\\obj\\",
+        "outputPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\ConsultaAlquileres\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ignac\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\Entidades\\Entidades.csproj"
+              "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Entidades\\Entidades.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\ignac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ignac\\AppData\\Roaming\\NuGet\\NuGet.Config",

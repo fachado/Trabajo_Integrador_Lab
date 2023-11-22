@@ -2761,11 +2761,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\ProyectosPrueba\\ProyectosPrueba.csproj",
+      "projectUniqueName": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\ProyectosPrueba\\ProyectosPrueba.csproj",
       "projectName": "ProyectosPrueba",
-      "projectPath": "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\ProyectosPrueba\\ProyectosPrueba.csproj",
+      "projectPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\ProyectosPrueba\\ProyectosPrueba.csproj",
       "packagesPath": "C:\\Users\\ignac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\ProyectosPrueba\\obj\\",
+      "outputPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\ProyectosPrueba\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ignac\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2782,8 +2782,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\Entidades\\Entidades.csproj"
+            "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Entidades\\Entidades.csproj"
             }
           }
         }

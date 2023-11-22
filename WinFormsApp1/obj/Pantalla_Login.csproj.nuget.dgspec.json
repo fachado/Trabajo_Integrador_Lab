@@ -1,0 +1,471 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\WinFormsApp1\\Pantalla_Login.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Carga_Cliente\\Carga_Cliente.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Carga_Cliente\\Carga_Cliente.csproj",
+        "projectName": "Carga_Cliente",
+        "projectPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Carga_Cliente\\Carga_Cliente.csproj",
+        "packagesPath": "C:\\Users\\ignac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Carga_Cliente\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ignac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Entidades\\Entidades.csproj"
+              },
+              "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Ticket_final\\Ticket_final.csproj": {
+                "projectPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Ticket_final\\Ticket_final.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\ConsultaAlquileres\\ConsultaAlquileres.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\ConsultaAlquileres\\ConsultaAlquileres.csproj",
+        "projectName": "ConsultaAlquileres",
+        "projectPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\ConsultaAlquileres\\ConsultaAlquileres.csproj",
+        "packagesPath": "C:\\Users\\ignac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\ConsultaAlquileres\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ignac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Entidades\\Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\ConsultaStock\\ConsultaStock.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\ConsultaStock\\ConsultaStock.csproj",
+        "projectName": "ConsultaStock",
+        "projectPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\ConsultaStock\\ConsultaStock.csproj",
+        "packagesPath": "C:\\Users\\ignac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\ConsultaStock\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ignac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Entidades\\Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Entidades\\Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Entidades\\Entidades.csproj",
+        "projectName": "Entidades",
+        "projectPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Entidades\\Entidades.csproj",
+        "packagesPath": "C:\\Users\\ignac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ignac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Ticket_final\\Ticket_final.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Ticket_final\\Ticket_final.csproj",
+        "projectName": "Ticket_final",
+        "projectPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Ticket_final\\Ticket_final.csproj",
+        "packagesPath": "C:\\Users\\ignac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Ticket_final\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ignac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Entidades\\Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\WinFormsApp1\\Pantalla_Login.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\WinFormsApp1\\Pantalla_Login.csproj",
+        "projectName": "Pantalla_Login",
+        "projectPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\WinFormsApp1\\Pantalla_Login.csproj",
+        "packagesPath": "C:\\Users\\ignac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\WinFormsApp1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ignac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\ConsultaAlquileres\\ConsultaAlquileres.csproj": {
+                "projectPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\ConsultaAlquileres\\ConsultaAlquileres.csproj"
+              },
+              "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\ConsultaStock\\ConsultaStock.csproj": {
+                "projectPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\ConsultaStock\\ConsultaStock.csproj"
+              },
+              "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\WinFormsApp3\\Pantalla_principal.csproj": {
+                "projectPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\WinFormsApp3\\Pantalla_principal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\WinFormsApp3\\Pantalla_principal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\WinFormsApp3\\Pantalla_principal.csproj",
+        "projectName": "Pantalla_principal",
+        "projectPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\WinFormsApp3\\Pantalla_principal.csproj",
+        "packagesPath": "C:\\Users\\ignac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\WinFormsApp3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ignac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Carga_Cliente\\Carga_Cliente.csproj": {
+                "projectPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Carga_Cliente\\Carga_Cliente.csproj"
+              },
+              "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Entidades\\Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

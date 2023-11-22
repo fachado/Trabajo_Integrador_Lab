@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\Entidades\\Entidades.csproj",
+      "projectPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Entidades\\Entidades.csproj",
       "packagesPath": "C:\\Users\\ignac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\Entidades\\obj\\",
+      "outputPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ignac\\AppData\\Roaming\\NuGet\\NuGet.Config",

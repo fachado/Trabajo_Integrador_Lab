@@ -1,0 +1,74 @@
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\Carga_Cliente.deps.json
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\Carga_Cliente.runtimeconfig.json
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\Carga_Cliente.exe
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\Pantalla_principal.exe
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\Pantalla_principal.deps.json
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\Pantalla_principal.runtimeconfig.json
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\Pantalla_principal.dll
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\Pantalla_principal.pdb
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\Carga_Cliente.dll
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\Carga_Cliente.pdb
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\Pantalla_principal.csproj.AssemblyReference.cache
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.FormPrincipal.resources
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\Pantalla_principal.Properties.Resources.resources
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\Pantalla_principal.csproj.GenerateResource.cache
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\Pantalla_principal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\Pantalla_principal.AssemblyInfoInputs.cache
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\Pantalla_principal.AssemblyInfo.cs
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\Pantalla_principal.csproj.CoreCompileInputs.cache
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\Pantalla_principal.csproj.CopyComplete
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\Pantalla_principal.dll
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\refint\Pantalla_principal.dll
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\Pantalla_principal.pdb
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\Pantalla_principal.genruntimeconfig.cache
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\ref\Pantalla_principal.dll
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\Entidades.dll
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\Entidades.pdb
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\Ticket_final.deps.json
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\Ticket_final.runtimeconfig.json
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\Ticket_final.exe
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\Ticket_final.dll
+C:\Users\ignac\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\Ticket_final.pdb
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\bin\Debug\net6.0-windows\Carga_Cliente.deps.json
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\bin\Debug\net6.0-windows\Carga_Cliente.runtimeconfig.json
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\bin\Debug\net6.0-windows\Carga_Cliente.exe
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\bin\Debug\net6.0-windows\Ticket_final.deps.json
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\bin\Debug\net6.0-windows\Ticket_final.runtimeconfig.json
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\bin\Debug\net6.0-windows\Ticket_final.exe
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\bin\Debug\net6.0-windows\Pantalla_principal.exe
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\bin\Debug\net6.0-windows\Pantalla_principal.deps.json
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\bin\Debug\net6.0-windows\Pantalla_principal.runtimeconfig.json
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\bin\Debug\net6.0-windows\Pantalla_principal.dll
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\bin\Debug\net6.0-windows\Pantalla_principal.pdb
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\bin\Debug\net6.0-windows\Carga_Cliente.dll
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\bin\Debug\net6.0-windows\Entidades.dll
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\bin\Debug\net6.0-windows\Ticket_final.dll
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\bin\Debug\net6.0-windows\Carga_Cliente.pdb
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\bin\Debug\net6.0-windows\Entidades.pdb
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\bin\Debug\net6.0-windows\Ticket_final.pdb
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\obj\Debug\net6.0-windows\Pantalla_principal.csproj.AssemblyReference.cache
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.FormPrincipal.resources
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\obj\Debug\net6.0-windows\Pantalla_principal.Properties.Resources.resources
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\obj\Debug\net6.0-windows\Pantalla_principal.csproj.GenerateResource.cache
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\obj\Debug\net6.0-windows\Pantalla_principal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\obj\Debug\net6.0-windows\Pantalla_principal.AssemblyInfoInputs.cache
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\obj\Debug\net6.0-windows\Pantalla_principal.AssemblyInfo.cs
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\obj\Debug\net6.0-windows\Pantalla_principal.csproj.CoreCompileInputs.cache
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\obj\Debug\net6.0-windows\Pantalla_principal.csproj.CopyComplete
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\obj\Debug\net6.0-windows\Pantalla_principal.dll
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\obj\Debug\net6.0-windows\refint\Pantalla_principal.dll
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\obj\Debug\net6.0-windows\Pantalla_principal.pdb
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\obj\Debug\net6.0-windows\Pantalla_principal.genruntimeconfig.cache
+C:\Users\ignac\source\repos\lquileres Taytum\WinFormsApp3\obj\Debug\net6.0-windows\ref\Pantalla_principal.dll

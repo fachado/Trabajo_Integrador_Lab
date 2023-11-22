@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gh+BF2jV1S6z7CQ7l1kaQuNPtAZPu8SsN47A8gUBMAQLapPqWuKG/Bmxn8aL8Ng0yXHTQEP3jI4GC+rz2EG6Xw==",
+  "dgSpecHash": "Ip6Ki4rRLaacCEbu2lBjuBusLTseuYFDbLF7Re++4bk9MUIuD9YamW0eBz0P7IkQrkf0h5n3JsTeZ6pcs8FXSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\Entidades\\Entidades.csproj",
+  "projectFilePath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Entidades\\Entidades.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ignac\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\ignac\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

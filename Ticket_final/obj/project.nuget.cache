@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+WyhflCc4XoVbCcgZZsrJ38kKZoZhSCb7q6RxpvnXV9GMI8ejqZDOLYnDzSONFAvHdWeOsv00rEYl/Sj7KJm1A==",
+  "dgSpecHash": "K2+DhdrU+Y1iyuKLi5jdlBIbbMTaok8tMsIIhi+ZzAgaC1oox1tGl9CvhICzAifEuh0VBj9+IjtCb6uKAg/hSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\Ticket_final\\Ticket_final.csproj",
+  "projectFilePath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Ticket_final\\Ticket_final.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ignac\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\ignac\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

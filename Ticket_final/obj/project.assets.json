@@ -494,11 +494,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\Ticket_final\\Ticket_final.csproj",
+      "projectUniqueName": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Ticket_final\\Ticket_final.csproj",
       "projectName": "Ticket_final",
-      "projectPath": "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\Ticket_final\\Ticket_final.csproj",
+      "projectPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Ticket_final\\Ticket_final.csproj",
       "packagesPath": "C:\\Users\\ignac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\Ticket_final\\obj\\",
+      "outputPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Ticket_final\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ignac\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -515,8 +515,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\Entidades\\Entidades.csproj"
+            "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Entidades\\Entidades.csproj"
             }
           }
         }

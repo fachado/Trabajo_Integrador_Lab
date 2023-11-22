@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YvP/5puF3WNGXjRdJ+rv75LKGoDEzpVjqsU0FVD4RR4Y6GBASRdrojXJ+FG4MSHNFFhMbEXtDO8Miyn6/i74fw==",
+  "dgSpecHash": "e5+Jdoh6ctWDT+DvshGPx0Sj8ohGVKFGq351FN1cToBu6F2Reo6RS61rSaVmboSWi9ZJwSrb5uR7Mm1Ym8ah6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\ConsultaAlquileres\\ConsultaAlquileres.csproj",
+  "projectFilePath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\ConsultaAlquileres\\ConsultaAlquileres.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ignac\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\ignac\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

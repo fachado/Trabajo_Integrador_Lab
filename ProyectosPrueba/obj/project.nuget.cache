@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WperxG9acnocLWA9HjQdd5UlUVOyWN9XG9lg00Dm9WxnRe9/4cf7f7T8bkPxn9fQW2wlofazLCCn2D6ZRpesIQ==",
+  "dgSpecHash": "zdaobNCEiWmkoOMk5BvLu6pR3KW75q6QJ4j7EPzrXC3yAkOFG6mU8PZuNi5vLmeuMbSfE9mC2D3JV0RMkiN4UA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\ProyectosPrueba\\ProyectosPrueba.csproj",
+  "projectFilePath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\ProyectosPrueba\\ProyectosPrueba.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ignac\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\ignac\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

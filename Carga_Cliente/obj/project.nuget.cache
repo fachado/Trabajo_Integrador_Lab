@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1ZuipcEyY0ccdxSj1kG7RTErYrwbyYSYxXZ4dOfC+WdKtitq4GpH2/PlWi15zFOYLdeT2rd56KFHlyhgG+C2Ig==",
+  "dgSpecHash": "IctInPYgx5qmkQpcHt3gTsiHt59rrRroNaeZEpGQ5s7kttYpAMJ/H1CERVVLEiUwjIiIfZDK/0qUcfapzP4pdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\Carga_Cliente\\Carga_Cliente.csproj",
+  "projectFilePath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Carga_Cliente\\Carga_Cliente.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ignac\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\ignac\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

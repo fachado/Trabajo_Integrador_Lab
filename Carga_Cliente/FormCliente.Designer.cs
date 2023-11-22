@@ -133,7 +133,6 @@
             label6.Size = new Size(90, 25);
             label6.TabIndex = 10;
             label6.Text = "Provincia";
-            label6.Click += label6_Click;
             // 
             // InfoContinuar
             // 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zNVTET4mL40pAUfOR7q4mLlFpEh1+NhcW9u6ahM8RNbJOIRTMUm5Uk58++Y1uHfngWVETsZS2d1i6YgWZRxHvg==",
+  "dgSpecHash": "HUNyDDwdqp8FkFIa6IOu6CRpwYzPq+5mZ/v51afl4DYSWzeszi1aw6hcl1RBrQD+DJfUb5ZIumi8qOuTTJEN/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\ConsultaStock\\ConsultaStock.csproj",
+  "projectFilePath": "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\ConsultaStock\\ConsultaStock.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ignac\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\ignac\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
