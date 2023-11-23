@@ -12,7 +12,7 @@ public class BaseDeDatos
     private static string connectionString;
     public List<Alquiler> RegistrosAlquiler { get; set; } = new List<Alquiler>();
 
-    string rutaArchivoCSV = "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\Entidades\\ListaJuegos.csv";
+    string rutaArchivoCSV = "C:\\Users\\ignac\\source\\repos\\lquileres Taytum\\Entidades\\ListaJuegos.csv";
     //no me anda con la ruta relativa string rutaArchivoCSV = "Entidades\\ListaJuegos.csv";
 
     public BaseDeDatos()
