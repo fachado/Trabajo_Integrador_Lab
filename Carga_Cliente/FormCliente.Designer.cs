@@ -211,6 +211,7 @@
             ForeColor = Color.LawnGreen;
             Name = "FormCliente";
             Text = "Form1";
+            FormClosing += FormCliente_FormClosing;
             Load += FormCliente_Load;
             ResumeLayout(false);
             PerformLayout();

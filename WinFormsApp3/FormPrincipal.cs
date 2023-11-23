@@ -17,7 +17,7 @@ namespace WinFormsApp3
         private static extern bool ReleaseCapture();
 
         private BaseDeDatos baseDeDatos;
-        public Juego JuegoSeleccionado { get; private set; }
+        public Juego JuegoSeleccionado;
 
         private string duracionSeleccionada;
         private string plataformaSeleccionada;

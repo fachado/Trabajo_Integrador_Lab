@@ -53,9 +53,9 @@ namespace Carga_Cliente
                 //le paso el alquiler al otro form
                 ticket.alquiler = nuevoAlquiler;
 
-                this.Hide();
+                this.Close();
 
-                ticket.ShowDialog();
+                ticket.Show();
                 // Crear un objeto Cliente con los datos leídos // Todos los datos son válidos, continuar con el proceso.
             }
             else
@@ -115,6 +115,12 @@ namespace Carga_Cliente
             {
                 e.Handled = true;
             }
+        }
+
+        private void FormCliente_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            // Muestra un cuadro de diálogo de confirmación antes de cerrar el formulario
+
         }
     }
 }
