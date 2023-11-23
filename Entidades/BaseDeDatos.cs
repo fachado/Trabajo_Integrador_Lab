@@ -12,7 +12,6 @@ public class BaseDeDatos
     private static string connectionString;
     public List<Alquiler> RegistrosAlquiler { get; set; } = new List<Alquiler>();
 
-    private bool baseDeDatosInicializada = false;
     string rutaArchivoCSV = "C:\\Users\\ignac\\source\\repos\\WinFormsApp3\\Entidades\\ListaJuegos.csv";
     //no me anda con la ruta relativa string rutaArchivoCSV = "Entidades\\ListaJuegos.csv";
 
@@ -25,24 +24,15 @@ public class BaseDeDatos
     }
     private void InicializarBaseDeDatos()
     {
-        if (!baseDeDatosInicializada)
-        {
-            CrearTablaAlquileres();
-            CrearTablaJuegosEnBaseDeDatos();
+        
+       CrearTablaAlquileres();
+       CrearTablaJuegosEnBaseDeDatos();
+       CargarJuegosEnBaseDeDatos();
+       CargarJuegosDesdeBaseDeDatos();
+       CargarRegistrosDesdeBaseDeDatos();
 
-            CargarJuegosEnBaseDeDatos();
-            CargarJuegosDesdeBaseDeDatos();
-            CargarRegistrosDesdeBaseDeDatos();
-            // Marcar la base de datos como inicializada
-            baseDeDatosInicializada = true;
-        }
-        else
-        {
-            Console.WriteLine("La base de datos ya ha sido inicializada anteriormente.");
-            CargarJuegosDesdeBaseDeDatos();
-            CargarRegistrosDesdeBaseDeDatos();
 
-        }
+        
     }
 
     public List<Juego> ObtenerJuegos()

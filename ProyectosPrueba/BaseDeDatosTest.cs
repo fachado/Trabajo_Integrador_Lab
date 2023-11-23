@@ -27,7 +27,7 @@ public class BaseDeDatosTests
     public void RealizarAlquiler_StockSuficiente_RegistraAlquilerYActualizaStock()
     {
         // Arrange
-        Juego juego = new Juego("NombreJuego", 10.0m, 5, "PlataformaX");
+        Juego juego = new Juego("nombrejuego", 1000, 5, "PlataformaX");
         Cliente cliente = new Cliente("ClienteNombre", "", 12345678, "", 0, "", "");
         Alquiler alquiler = new Alquiler(juego, cliente, DateTime.Now, "1 día");
 
